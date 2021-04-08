@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM ubuntu:rolling
 ENV name value
 ENV name=value
 ENV name=value name2=value2
