@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM ubuntu:groovy-20210614
 ENV name value
 ENV name=value
 ENV name=value name2=value2
